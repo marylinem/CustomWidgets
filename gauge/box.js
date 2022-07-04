@@ -4,6 +4,7 @@
 		<script src="https://cdn.amcharts.com/lib/5/index.js"></script>
 		<script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
 		<script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+		<h1> Hello World </h1>
 		<style>
 		:host {
 			border-radius: 10px;
