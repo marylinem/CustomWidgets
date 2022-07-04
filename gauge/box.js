@@ -4,7 +4,7 @@
 		<script src="https://cdn.amcharts.com/lib/5/index.js"></script>
 		<script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
 		<script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
-		<h1> Hello World </h1>
+		
 		<style>
 		:host {
 			border-radius: 10px;
@@ -46,6 +46,7 @@
 		</style>
 		
 		<div class="container">
+		<h1> Hello World </h1>
 		  <div class="row">
 		    <div class="col-md-4 col-sm-4">
 		      <div class="metric participation" data-ratio=".95">
