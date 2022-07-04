@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://marylinem.github.io/CustomWidgets/gauge/box.js",
+			"url": "https://raw.githubusercontent.com/marylinem/CustomWidgets/main/gauge/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
